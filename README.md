@@ -4,7 +4,9 @@
 - 닉네임 : wanya
 - 현재 관심 분야 : 컴퓨터그래픽스, AI
 - Github 링크 : https://github.com/starwanya
+
 ## 대표 프로젝트 소개
+
 ### Wi-Finder: Wi-Fi CSI를 활용한 유니티 기반 실내 신원 식별 시스템
 - Wi-Fi, Wireless AI 분야 졸업과제 수행
 
