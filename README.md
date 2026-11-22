@@ -3,7 +3,7 @@
 ## 소개
 - 닉네임 : wanya
 - 현재 관심 분야 : 컴퓨터그래픽스, AI
-- Github 링크 : https://github.com/starwanya
+- Github 링크 : <https://github.com/starwanya>
 
 ## 대표 프로젝트 소개
 
@@ -46,5 +46,5 @@
 - WebSocket 기반 실시간 식별 결과 전송 및 시각화 구현
 
 #### 5. 소스 코드
-- 전체 프로젝트: https://github.com/pnucse-capstone2026/capstone-2026-team-26
-- Unity 클라이언트: https://github.com/Nuna30/indoor-identification-system 
+- 전체 프로젝트: <https://github.com/pnucse-capstone2026/capstone-2026-team-26>
+- Unity 클라이언트: <https://github.com/Nuna30/indoor-identification-system> 
